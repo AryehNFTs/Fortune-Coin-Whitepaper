@@ -3,7 +3,7 @@ Find out more about the design philosophies behind Fortune Coin
 
 Fortune Coin: a unifying E-commerce token with a nouveau fair value model reflecting its discounted cash-flow firm value
 
-
+written by: Tan Marcus Dan and Samantha Li
 
 ## Abstract
 
